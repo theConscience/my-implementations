@@ -1,0 +1,11 @@
+{
+  "name": "my-implementations",
+  "version": "1.0.0",
+  "description": "for my implementations of different ideas in js",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "theConscience",
+  "license": "ISC"
+}
